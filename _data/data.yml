@@ -147,32 +147,32 @@ skills:
     title: Technical Expertise
 
     toolset:
-      - name: Amazon Web Services &mdash; Lambda, DynamoDB, CloudFormation, IAM, SQS, etc.
+      - name: Amazon Web Services #&mdash; Lambda, DynamoDB, CloudFormation, IAM, SQS, etc.
         level: 98%
 
-      - name: JavaScript &mdash; Node, React &amp; Angular
+      - name: JavaScript #&mdash; Node, React &amp; Angular
         level: 100%
 
-      - name: Ruby / Rails
+      - name: Ruby on Rails
         level: 98%
 
-      - name: System Architecture &amp; Database Design
+      - name: System Architecture #&amp; Database Design
         level: 85%
 
-      - name: Microsoft Azure &mdash;  Azure Functions, Azure Storage, Cosmos DB, App Service, etc.
+      - name: Microsoft Azure #&mdash;  Azure Functions, Azure Storage, Cosmos DB, App Service, etc.
         level: 98%
 
-      - name: ASP.Net &mdash; Classic, Framework, Core, etc.
+      - name: ASP.Net #&mdash; Classic, Framework, Core, etc.
         level: 98%
 
       - name: Scala &amp; Java
         level: 60%
 
-      - name: Python
-        level: 95%
-
-      - name: ElasticSearch
-        level: 60%
+#      - name: Python
+#        level: 95%
+#
+#      - name: ElasticSearch
+#        level: 60%
 
 footer: >
     Theme by Xiaoying Riley</a>
