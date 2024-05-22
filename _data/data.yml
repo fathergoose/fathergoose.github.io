@@ -52,7 +52,7 @@ career-profile:
 education:
     - degree: Web Development Boot Camp
       university: Actualize, Chicago
-      time: 2011 - 2012
+      time: 2015 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,8 +80,10 @@ experiences:
       details: |
         Initiate client contact to gather specifications and develop project plans. Design and implement custom software using Agile development practices in limited timeframes. Create corporate client data lakes with both AWS and Azure cloud platforms. Architect distributed, microservice-based applications using lambda functions, message cues, NOSQL tables, etc. 
 
-          - Bullet point
-          - Bullet point
+          - Built an infrastructure management system using Node.js on AWS Lambda.
+          - Created supporting services for data processing jobs run on Apache Spark using Scala and Node.js.
+          - Maintained Jenkins build pipelines for multiple Node.js and ReactJS projects.
+          - Developed a large client-facing brokerage application using AngularJS and .NET/C#.
 
     - role: Intern Developer
       time: Jan. 2016 - Mar. 2016
