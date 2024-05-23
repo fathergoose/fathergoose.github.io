@@ -63,7 +63,7 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: Chemistry &mdash; B.A. 
+    - degree: Chemistry &mdash; B.A.
       university: Augustana College
       time: 2006 - 2010
       details: |
@@ -74,12 +74,49 @@ education:
         pretium quis, sem.
 
 experiences:
+    - role: Software Engineer
+      time: Jan. 2022 - June 2023
+      company: Augmented Intelligence Technologies
+      details: |
+        - Developed applications for a startup focusing on natural language processing to analyze and organize unstructured data from child welfare cases.
+        - Collaborated with customer support, sales teams, and client case workers.
+        - Specialized in PostgreSQL and SQL fluency.
+        - Transitioned front and backend codebases from JavaScript to TypeScript (ReactJS and Node/AWS Lambda).
+        - Translated complex SQL statements into TypeScript ORM implementations.
+        - Worked with data scientists to ensure maintainable, scalable data processing pipelines.
+    - role: Consultant, Software Development
+      time: Oct. 2021 - Jan. 2022
+      company: Caxy Interactive
+      details: |
+        - Co-developed a cross-platform mobile application using React Native with a GraphQL backend.
+        - Analyzed legacy codebases for integration and development opportunities.
+        - Worked on a tight timetable, ensuring productivity and efficiency.
+        - Tracked time spent across several projects, maintaining detailed timesheets to ensure project profitability.
+        - Collaborated closely with the project manager to balance workload and meet client deadlines.
+        - Contributed to client meetings to refine project requirements and deliver tailored solutions.
+    - role: Senior Developer / DevOps Practitioner
+      time: June 2020 - April 2021
+      company: Capstone Logistics
+      details: |
+        - Maintained build and release pipelines in Azure DevOps for .NET, Ruby on Rails, and Node.js projects.
+        - Assisted colleagues with troubleshooting and best practices for pipeline development. 
+        - Implemented microservices using Ruby on Rails and ASP.NET Core.
+        - Designed a solution with Azure Functions and Azure Cache for Redis to provide time-limited exclusive access to business records.
+    - role: Technical Lead / Project Manager
+      time: April 2019 - June 2020
+      company: LoadDelivered
+      details: |
+        - Led a team of software developers in the rewrite of an internal customer relations and freight management tool using Node.js, Ruby on Rails, and ReactJS.
+        - Provided comprehensive technical leadership, including architecture design of the API and data layers.
+        - Participated actively in code reviews to ensure adherence to best practices and high code quality.
+        - Guided the implementation of software development best practices and testing strategies.
+        - Balanced stakeholder expectations while managing ongoing maintenance and new feature delivery.
+        - Acted as a technical advisor, offering hands-on assistance and mentoring to team members.
+        - Engaged in storyboarding and wireframing to ensure technical feasibility and alignment with project goals.
     - role: Consultant, Software
       time: Sept. 2016 - Mar. 2019
       company: Pariveda Solutions, Chicago, IL
       details: |
-        Initiate client contact to gather specifications and develop project plans. Design and implement custom software using Agile development practices in limited timeframes. Create corporate client data lakes with both AWS and Azure cloud platforms. Architect distributed, microservice-based applications using lambda functions, message cues, NOSQL tables, etc. 
-
           - Built an infrastructure management system using Node.js on AWS Lambda.
           - Created supporting services for data processing jobs run on Apache Spark using Scala and Node.js.
           - Maintained Jenkins build pipelines for multiple Node.js and ReactJS projects.
