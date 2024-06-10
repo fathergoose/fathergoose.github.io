@@ -78,13 +78,12 @@ experiences:
       time: May 2024 - Present
       company: Actualize Code Bootcamp
       details: |
-        - Meeting with recent graduates on a weekly basis to support their continued technical and professional growth.
-        - Conceived, initiated, coordinated, and led collaborative project between mentees (in addition to standard mentorship responsibilities—i.e. no one asked for this)
-          -	Aim to prepare mentees for working as a part professional software development team.
-          -	Teaching and enforcing branch and PR based git workflow.
-          -	Setup and maintanence of CI/CD pipelines deploying to dev and prod environments on AWS.
-          -	Choosing to be deliberately unambitious regarding application features to facilitate a richer understanding of what the mentees had built.
-
+        - Met with recent graduates weekly to support their continued technical and professional growth.
+        - Conceived, initiated, coordinated, and led a collaborative project between mentees in addition to standard mentorship responsibilities.
+          - Aimed to prepare mentees for working as part of a professional software development team.
+          - Taught and enforced branch and PR-based Git workflow.
+          - Set up and maintained CI/CD pipelines for deploying to development and production environments on AWS.
+          - Chose to be deliberately unambitious regarding application features to facilitate a richer understanding of what the mentees had built.
     - role: Software Engineer
       time: Jan. 2022 - June 2023
       company: Augmented Intelligence Technologies
