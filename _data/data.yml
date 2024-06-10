@@ -12,7 +12,7 @@ sidebar:
     avatar: headshot.jpg # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: al@ilseman.com
+    email: alexander.ilseman@gmail.com
     phone: +1 (630) 234 5449
     website: fathergoose.github.io #do not add http://
     linkedin: alilseman
@@ -74,6 +74,17 @@ education:
         pretium quis, sem.
 
 experiences:
+    - role: Tech Mentor
+      time: May 2024 - Present
+      company: Actualize Code Bootcamp
+      details: |
+        - Meeting with recent graduates on a weekly basis to support their continued technical and professional growth.
+        - Conceived, initiated, coordinated, and led collaborative project between mentees (in addition to standard mentorship responsibilities—i.e. no one asked for this)
+          -	Aim to prepare mentees for working as a part professional software development team.
+          -	Teaching and enforcing branch and PR based git workflow.
+          -	Setup and maintanence of CI/CD pipelines deploying to dev and prod environments on AWS.
+          -	Choosing to be deliberately unambitious regarding application features to facilitate a richer understanding of what the mentees had built.
+
     - role: Software Engineer
       time: Jan. 2022 - June 2023
       company: Augmented Intelligence Technologies
